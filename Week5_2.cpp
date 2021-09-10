@@ -7,7 +7,7 @@ int main()
 	{
 		scanf("%f", &num[i]);
 	}
-	printf("Heigh of ten student =");
+	printf("Height of ten students =");
 	for(int i=0;i<10;i++)
 	{
 		printf(" %.2f",num[i]);
